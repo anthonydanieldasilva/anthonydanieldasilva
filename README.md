@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200"/>
 </div>
 <h3 align="center">! Hola, Soy Anthony !</h3>
-<h4 align="center">Graduado en Marketing & Publicidad Digital  /  Desarrollador Web Novato  /  Film photographer</h4>
+<h4 align="center">Egresado en Marketing & Publicidad Digital  /  Desarrollador Web Novato  /  Film photographer</h4>
 </br>
 
 
