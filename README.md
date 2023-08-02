@@ -1,14 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="300"/>
 </div>
 <h3 align="center">! Hola, Soy Anthony !</h3>
-<h4 align="center">Egresado en Marketing & Publicidad Digital  /  Desarrollador Web Novato  /  Film photographer</h4>
-</br>
-
-
-- 🔭 Actual Director de Ventas </br> [Obermann Neumàtcos](https://obermanneumaticos.com.ar/)
-- 🔭 Brand y Content Manager en </br> [Neumàtcos Oberman Oficial](https://www.instagram.com/oberman_neumaticos)
-</br>
+<h4 align="center">FrontEnd Developer / Marketing & Publicidad Digital  / Film photographer</h4>
 
 <h4 align="center">Visita mi Perfil</h4>
 <p align="center">
